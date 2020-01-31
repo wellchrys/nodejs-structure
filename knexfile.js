@@ -6,8 +6,8 @@ module.exports = {
         connection: {
             host: '127.0.0.1',
             user: 'root',
-            password: 'nex2019@',
-            database: 'intranex'
+            password: 'username',
+            database: 'password'
         }, 
         pool: { min: 0, max: 7 },
         migrations: {
