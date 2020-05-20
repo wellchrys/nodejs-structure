@@ -1,9 +1,9 @@
 {
-  "name": "intranex-dgo",
+  "name": "",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@bitbucket.org:nex-energy/intranex-dgo.git",
-  "author": "nex-energy <dev@nexenergy.com.br>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "scripts": {
     "start": "node src/index.js",
